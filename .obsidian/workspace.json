@@ -11,10 +11,14 @@
             "id": "1b9e7c76dfd267fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Business/Product/ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ideas"
             }
           }
         ]
@@ -184,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6a95bc56619523a",
+  "active": "1b9e7c76dfd267fe",
   "lastOpenFiles": [
     "Business/Product/ideas.md",
     "Welcome.md"
