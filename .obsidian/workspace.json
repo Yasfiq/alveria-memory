@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db7266cd437226fc",
+        "id": "4f71eaf9db7091cb",
         "type": "tabs",
         "children": [
           {
-            "id": "779257ea06106171",
+            "id": "5060b62c32e4e4f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/home/mohammad-yasfiq/Documents/Personal/College/Comp2 - Computational Thinking and Programming/Assignment - Group/docs/specs/2026-10-23-sizing-plts-desktop-design.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-23-sizing-plts-desktop-design"
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "779257ea06106171",
+  "active": "5060b62c32e4e4f4",
   "lastOpenFiles": [
+    "file:/home/mohammad-yasfiq/Documents/Personal/College/Comp2 - Computational Thinking and Programming/Assignment - Group/PLTS_SIZING_APP_WOFKFLOW_CODE.md",
     "file:/home/mohammad-yasfiq/Documents/Personal/College/Comp2 - Computational Thinking and Programming/Assignment - Group/docs/specs/2026-10-23-sizing-plts-desktop-design.md",
     "Business/Product/ideas.md",
     "Welcome.md"
