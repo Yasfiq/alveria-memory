@@ -75,4 +75,6 @@ Terakhir diperbarui: 2026-10-23
 ## 5. Sistem & Komunikasi
 - **Kalender Aktif**: `bymecorporate@gmail.com`
 - **Konektivitas**: Hanya aktif saat laptop server online
-- **Waktu Briefing**: Menunggu penentuan slot
+- **Waktu Briefing**:
+  - **Pagi (Morning Briefing)**: ~07:30 - 08:00 (saat baru sampai kantor / sebelum deep work jam 08:00)
+  - **Malam (Evening Evaluation)**: ~21:30 - 22:00 (setelah selesai kuliah / sebelum energi habis & rehat)
